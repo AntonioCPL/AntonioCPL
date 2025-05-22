@@ -1,4 +1,5 @@
-# Olá 🤗😁 Me chamo Antonio. Estou aprendendo programação e estou documentando os meus aprendizados e exercícios no GitHub.
+# Olá 🤗😁 Me chamo Antonio.
+# Estou aprendendo programação e estou documentando os meus aprendizados e exercícios no GitHub.
 ---
 ## 📏📐 O que Estou Estudando:
 - **Python**
