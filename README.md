@@ -18,4 +18,5 @@
 ---
 ## 📃🎓Competências
 - Concluí o Mundo 1 de Python do Curso em Vídeo, com certificado emitido por Gustavo Guanabara.
-Confira meus projetos!
+[Confira meus certificados](https://github.com/AntonioCPL/Exercicios_Python-Curso-em-Video/raw/main/Certificados/Certificado_Python3_Mundo1.pdf
+)
