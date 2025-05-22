@@ -4,12 +4,15 @@
 - **Python**
 - **Lógica**
 - **Git e GitHub**
+---
 ##📈📖 O que Busco Estudar:
 - **Java**
 - **HTML**
 - **Banco de Dados(MySQL)**
+---
 ##💻📌 O Meu Objetivo:
 - Busco me tornar um desenvolvedor especialista
 - Entrar no mercado da programação
 - Estar me desenvolvendo e aprendendo sempre
+---
 Confira meus projetos!
