@@ -16,4 +16,6 @@
 - Entrar no mercado da programação
 - Estar me desenvolvendo e aprendendo sempre
 ---
+## 📃🎓Competências
+- Concluí o Mundo 1 de Python do Curso em Vídeo, com certificado emitido por Gustavo Guanabara.
 Confira meus projetos!
